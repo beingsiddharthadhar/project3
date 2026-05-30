@@ -1,0 +1,6 @@
+{
+  "name": "SmartBite AI",
+  "description": "An intelligent Agentic AI Food Delivery Assistant for smart ordering, customized customer experiences, and business analytics, powered by Gemini.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
